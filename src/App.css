@@ -15,7 +15,6 @@ body{
   padding-top: 12px;
   font-weight: 700;
   box-shadow: 0 5px 15px #00000099;
-  border: 3px solid black;
 }
 
 .header div{
@@ -40,7 +39,6 @@ body{
   border-radius: 20px;
   background-color: rgba(0, 0, 0, 0.132);
   box-shadow: 0 15px 20px #00000099;
-  border: 2px solid #959292;
 }
 .content:hover{
   background-color: rgba(0, 0, 255, 0.273);
