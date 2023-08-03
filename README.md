@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
 ## This is just a trail app to show how can we see our used dependencies like react, express, mongoose and many more.
-## If anyone try to see their dependencies license file
-then they can just copy the file code named aas licenseChecker.js and paste their own react/node folder and when they run automaticaly license file is generated in json format. 
+## If anyone tries to see their dependencies license file
+then they can just copy the file code named as licenseChecker.js and paste it into their own react/node folder, and when they run it automatically, a license file is generated in JSON format. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
