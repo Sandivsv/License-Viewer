@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## This is just a trail app to show how can we see our used dependencies like react, express, mongoose and many more.
+## This is just a trail app to show how can we see license used like APACHE, MIT, ISC of used dependencies like react, express, mongoose and many more.
 ## If anyone tries to see their dependencies license file
 then they can just copy the file code named as licenseChecker.js and paste it into their own react/node folder, and when they run it automatically, a license file is generated in JSON format. 
 
